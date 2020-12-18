@@ -35,3 +35,10 @@ All three are stable, because instability requires both of the participants to b
 - `The assignment problem` seeks to find a matching in a weighted bipartite graph that has maximum weight. Maximum weighted matchings do not have to be stable, but in some applications a maximum weighted matching is better than a stable one.
 
 - `The matching with contracts problem` is a generalization of matching problem, in which participants can be matched with different terms of contracts. An important special case of contracts is matching with flexible wages.
+
+## Sources
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Stable_marriage_problem)
+- [Stable Matching Algorithms](http://www.dcs.gla.ac.uk/research/algorithms/stable/)
+- [Matching - graph theory](https://en.wikipedia.org/wiki/Matching_(graph_theory))
+- [Stable matching polytope](https://en.wikipedia.org/wiki/Stable_matching_polytope)
