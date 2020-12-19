@@ -23,9 +23,9 @@ Please take a few minutes to read GitHub's guide on [How to Contribute to Open S
 
 ### How to contribute code to our project
 
-- 1. If you have no rights to contribute directly on the main repository, you will have to create a `fork` of the desired repository.
-- 2. Create a new branch just for the bug/feature you are working on.
-- 3. Once you have completed your work, create a `Pull Request`, ensuring that it meets the requirements listed below.
+1. If you have no rights to contribute directly on the main repository, you will have to create a `fork` of the desired repository.
+2. Create a new branch just for the bug/feature you are working on.
+3. Once you have completed your work, create a `Pull Request`, ensuring that it meets the requirements listed below.
 
 ### Requirements for Pull Requests (PR)
 
