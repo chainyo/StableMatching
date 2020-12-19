@@ -17,7 +17,7 @@ Feel free to contribute.
 
 The goal of this project is to create a web application for a stable matching algorithm. We want you to be able to use the algorithm with `n` students/enterprises and with AI enhencements. 
 
-For a better understanding of `stable matching algorithm`, please refer to our stable matching explanations (link .md)
+For a better understanding of `stable matching algorithm`, please refer to our stable matching explanations [here](./stable_marriage_problem.md).
 
 ## Who can use it ?
 
@@ -25,11 +25,11 @@ Everyone can use it for a `stable matching` problem.
 
 ## How to use it
 
-Please refer to our `user guide`. (add link)
+Please refer to our `user guide`. (./USER_GUIDE.md)
 
 ## How to contribute
 
-Please refer to our `contribution guide`. (add link)
+Please refer to our [contributing guide](./CONTRIBUTING.md).
 
 ## Contact
 
