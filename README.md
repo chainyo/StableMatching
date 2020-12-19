@@ -25,7 +25,7 @@ Everyone can use it for a `stable matching` problem.
 
 ## How to use it
 
-Please refer to our `user guide`. (add link)
+Please refer to our `user guide`. (./USER_GUIDE.md)
 
 ## How to contribute
 
